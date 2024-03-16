@@ -5,14 +5,12 @@ Graduando em Matemática Computacional pelo IME-USP, estou sempre em busca de de
 
 # Alguns Projetos
 
-1. 💻 **Transactional API:** Projeto explorando conceitos ACID com SpringBoot e JPA, fazendo uso de transações, locks e relacionamentos.
-   - [Link para o projeto 1](link_para_o_projeto_1)
+1. 💻 **[Transactional API](link_para_o_projeto_1):** Projeto explorando conceitos ACID com SpringBoot e JPA, fazendo uso de transações, locks e relacionamentos.
    
-2. 📈 **Portfolio Generator:** Projeto sobre o conceito financeiro de portfólio, viabilizando gração e analise de portfólios de ativos a partir de dashboards e insights.
-   - [Link para o projeto 2](https://github.com/lucsalm/portfolio-generator-dash)
+2. 📈 **[Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash):** Projeto sobre o conceito financeiro de portfólio, viabilizando gração e analise de portfólios de ativos a partir de dashboards e insights.
 
-3. 🤖 **Commands Categorization:** Projeto de Machine Learning explorando arquitetura Transformer para o problema de categorização de comandos de fala (Esse projeto foi base do meu Trabalho de Conclusão de Curso).
-   - [Link para o projeto 3](link_para_o_projeto_3)
+3. 🤖 **[Commands Categorization](link_para_o_projeto_3):** Projeto de Machine Learning explorando arquitetura Transformer para o problema de categorização de comandos de fala (Esse projeto foi base do meu Trabalho de Conclusão de Curso).
+
 
 # Contato
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.almd.silva@gmail.com)](mailto:lucas.almd.silva@gmail.com)
