@@ -1,7 +1,8 @@
 # Sobre Mim 👨🏽‍💻
 
 Atualmente trabalho com desenvolvimento Java e SpringBoot, sou um entusiasta de Software Development, Machine Learning e Data Analysys. 
-Graduando em Matemática Computacional pelo IME-USP, estou sempre em busca de desafios interessantes e oportunidades de aprendizado contínuo.
+
+Sou Graduando em Matemática Computacional pelo IME-USP, e estou sempre em busca de desafios interessantes e oportunidades de aprendizado contínuo.
 
 # Alguns Projetos
 
