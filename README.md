@@ -8,7 +8,7 @@ Graduando em Matemática Computacional pelo IME-USP, estou sempre em busca de de
 1. 💻 **[Transactional API](link_para_o_projeto_1):** 
    - Projeto explorando conceitos ACID com SpringBoot e JPA, fazendo uso de transações, locks e relacionamentos.
 2. 📈 **[Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash):** 
-   - Projeto sobre o conceito financeiro de portfólio, viabilizando gração e analise de portfólios de ativos a partir de dashboards e insights.
+   - Projeto sobre o conceito financeiro de portfólio, possibilitando analise de portfólios de ativos a partir de dashboards e insights.
 3. 🤖 **[Commands Categorization](link_para_o_projeto_3):** 
    - Projeto de Machine Learning explorando arquitetura Transformer para o problema de categorização de comandos de fala
 
