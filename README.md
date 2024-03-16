@@ -17,5 +17,5 @@ Graduando em Matemática Computacional pelo IME-USP, estou sempre em busca de de
    - [Link para o projeto 3](link_para_o_projeto_3)
 
 # Contato
-- [![LinkedIn](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/lucas-almeida-376141203/) Texto do link
+- [LinkedIn](https://www.linkedin.com/in/lucas-almeida-376141203/) LinkedIn
 - Email: lucas.almd.silva@gmail.com
