@@ -1,17 +1,19 @@
-# Sobre Mim 👨🏽‍💻
+# About Me 👨🏽‍💻
 
-Atualmente trabalho com desenvolvimento Java e SpringBoot, sou um entusiasta de Software Development, Machine Learning e Data Analysys. 
+Currently, I work with Java and Spring Boot development. I am passionate about Software Development, Machine Learning, and Data Analysis.
 
-Sou Graduando em Matemática Computacional pelo IME-USP, e estou sempre em busca de desafios interessantes e oportunidades de aprendizado contínuo.
+I am an undergraduate student in Computational Mathematics at IME-USP, and I am always seeking interesting challenges and opportunities for continuous learning.
 
-# Alguns Projetos
+# Some Projects
 
-1. 💻 **[Transactional API](link_para_o_projeto_1):** 
-   - Projeto explorando conceitos ACID com SpringBoot e JPA, fazendo uso de transações, locks e relacionamentos.
+1. 💻 **[Transactional API](link_to_project_1):** 
+   - Project exploring ACID concepts with Spring Boot and JPA, making use of transactions, locks, and relationships.
+   
 2. 📈 **[Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash):** 
-   - Projeto sobre o conceito financeiro de portfólio, possibilitando analise de portfólios de ativos a partir de dashboards e insights.
-3. 🤖 **[Commands Categorization](link_para_o_projeto_3):** 
-   - Projeto de Machine Learning explorando arquitetura Transformer para o problema de categorização de comandos de fala
+   - Project about the financial concept of portfolio, enabling analysis of asset portfolios through dashboards and insights.
+   
+3. 🤖 **[Commands Categorization](link_to_project_3):** 
+   - Machine Learning project exploring Transformer architecture for the problem of speech commands categorization.
 
-# Contatos
+# Contacts
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.almd.silva@gmail.com)](mailto:lucas.almd.silva@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucsalm)](https://github.com/lucsalm) <a href="https://www.linkedin.com/in/lucas-almeida-376141203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
