@@ -16,10 +16,7 @@ I am an undergraduate student in Computational Mathematics at IME-USP, and I am 
    - Machine Learning project exploring Transformer architecture for the problem of speech commands categorization.
 
 ## Contacts
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.almd.silva@gmail.com)](mailto:lucas.almd.silva@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucsalm)](https://github.com/lucsalm) 
+[![Gmail Badge](https://img.shields.io/badge/-Lucas%20Almeida-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas.almd.silva@gmail.com)](mailto:lucas.almd.silva@gmail.com) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucsalm)](https://github.com/lucsalm) 
 <a href="https://www.linkedin.com/in/lucas-almeida-376141203/">
-     <img src="https://img.shields.io/badge/Lucase%20Almeida-0077B5?style=flat&logo=linkedin&logoColor=white" />
+     <img src="https://img.shields.io/badge/Lucas%20Almeida-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-<!---
-<a href="https://www.linkedin.com/in/lucas-almeida-376141203/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
--->
