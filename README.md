@@ -7,7 +7,7 @@ I am an undergraduate student in Computational Mathematics at [IME-USP](https://
 ## Some Projects
 
 1. 💻 **[Account API](https://github.com/lucsalm/account-api):** 
-   - Project exploring ACID concepts with Spring Boot and JPA, making use of transactions, locks, and relationships.
+   - Project exploring ACID concepts with Spring Boot, making use of transactions, locks, and relationships.
    
 2. 📈 **[Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash):** 
    - Project about the financial concept of portfolio, enabling analysis of asset portfolios through dashboards and insights.
