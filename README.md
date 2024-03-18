@@ -6,7 +6,7 @@ I am an undergraduate student in Computational Mathematics at [IME-USP](https://
 
 ## Some Projects
 
-1. 💻 **[Transactional API](https://github.com/lucsalm/account-api):** 
+1. 💻 **[Account API](https://github.com/lucsalm/account-api):** 
    - Project exploring ACID concepts with Spring Boot and JPA, making use of transactions, locks, and relationships.
    
 2. 📈 **[Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash):** 
