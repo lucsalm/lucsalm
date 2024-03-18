@@ -2,7 +2,7 @@
 
 Currently, I work with Java and Spring Boot development. I am passionate about Software Development, Machine Learning, and Data Analysis.
 
-I am an undergraduate student in Computational Mathematics at IME-USP, and I am always seeking interesting challenges and opportunities for continuous learning.
+I am an undergraduate student in Computational Mathematics at [IME-USP](https://www.ime.usp.br), and I am always seeking interesting challenges and opportunities for continuous learning.
 
 ## Some Projects
 
