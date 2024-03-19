@@ -5,13 +5,12 @@ My name is Lucas and I'm a software engineer, but also pasionate about data scie
 📚 I'm an undergraduate student pursuing a bachelor's degree in Applied and Computational Mathematics at [IME-USP](https://www.ime.usp.br).
 🏠 I'm from São Paulo - SP, Brazil.
 
-## My Working Stack:
+## My Working Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white)
 ![Mongo](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![Dynamo](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6.svg?style=for-the-badge&logo=Amazon-DynamoDB&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![Datadog](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
