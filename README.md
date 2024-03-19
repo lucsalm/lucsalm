@@ -27,13 +27,13 @@ My name is Lucas and I'm a Software Engineer, but also pasionate about Data Scie
 
 ## Some Projects
 
-1. 💻 **[Account API](https://github.com/lucsalm/account-api):** 
+1. ### 💻 [Account API](https://github.com/lucsalm/account-api) 
    - Project exploring ACID concepts with Spring Boot, making use of transactions, locks, and relationships.
    
-2. 📈 **[Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash):** 
+2. ### 📈 [Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash)
    - Project about the financial concept of portfolio, enabling analysis of asset portfolios through dashboards and insights.
    
-3. 🤖 **[Commands Categorization](link_to_project_3):** 
+3. ### 🤖 [Commands Categorization](link_to_project_3)
    - Machine Learning project exploring Transformer architecture for the problem of speech commands categorization.
 
 ## Contacts
