@@ -2,7 +2,7 @@
 
 My name is Lucas and I'm a Software Engineer, but also pasionate about Data Science and Machine Learning
 
-📚 I'm an undergraduate student pursuing a bachelor's degree in Applied and Computational Mathematics at [IME-USP](https://www.ime.usp.br).
+📚 I'm an undergraduate student pursuing a bachelor's degree in [Applied and Computational Mathematics](https://www.ime.usp.br/bmac/) at [IME-USP](https://www.ime.usp.br).
 
 🏠 I'm from São Paulo - SP, Brazil.
 
