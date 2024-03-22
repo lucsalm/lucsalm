@@ -33,8 +33,9 @@ My name is Lucas and I'm a Software Engineer, but also pasionate about Data Scie
 2. ### 📈 [Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash)
    - Project about the financial concept of portfolio, enabling analysis of asset portfolios through dashboards and insights.
    
-3. ### 🤖 [Commands Categorization](link_to_project_3)
+3. ### 🤖 [Commands Categorization]([link_to_project_3](https://github.com/lucsalm/commands-categirization))
    - Machine Learning project exploring Transformer architecture for the problem of Speech Commands Categorization.
+This project is the foundation of my [Bachelor's Thesis](https://raw.githubusercontent.com/lucsalm/commands-categorization/main/TCC.pdf)
 
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lucas.almd.silva@gmail.com) 
