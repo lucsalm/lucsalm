@@ -1,10 +1,10 @@
 ## About Me 👨🏽‍💻
 
-My name is Lucas and I'm a Software Engineer, but also pasionate about Data Science and Machine Learning
+My name is Lucas. I am 22 years old and hail from São Paulo, Brazil. 
 
-📚 I'm an undergraduate student pursuing a bachelor's degree in [Applied and Computational Mathematics](https://www.ime.usp.br/bmac/) at [IME-USP](https://www.ime.usp.br).
+I currently hold the position of Software Engineer.
 
-🏠 I'm from São Paulo - SP, Brazil.
+And I'm an undergraduate student pursuing a bachelor's degree in [Applied and Computational Mathematics](https://www.ime.usp.br/bmac/) at [IME-USP](https://www.ime.usp.br).
 
 ## Daily Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
