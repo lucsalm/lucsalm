@@ -40,7 +40,7 @@ And I'm an undergraduate student pursuing a bachelor's degree in [Applied and Co
 
 3. ## 🤖 Machine Learning
     #### [Commands Categorization](https://github.com/lucsalm/commands-categirization)
-   - Machine Learning project exploring Transformer architecture for the problem of Speech Commands Categorization.
+   - Project exploring Transformer architecture for the problem of Speech Commands Categorization.
      This project is the foundation of my [Bachelor's Thesis](https://github.com/lucsalm/commands-categirization/blob/main/TCC.pdf).
 
 ## Contacts
