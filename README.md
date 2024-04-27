@@ -31,7 +31,7 @@ And I'm an undergraduate student pursuing a bachelor's degree in [Applied and Co
 1. ## 💻 Software Development
     ####  [Account API](https://github.com/lucsalm/account-api)
     - Project exploring ACID concepts with Spring Boot, making use of transactions, locks, and relationships.
-    #### [Catalog API](https://github.com/lucsalm/catalog-api) and [Catalog Consumer](https://github.com/lucsalm/catalog-api)
+    #### [Catalog API](https://github.com/lucsalm/catalog-api) and [Catalog Consumer](https://github.com/lucsalm/catalog-consumer)
     - Project exploring microsservices with Spring Boot, NoSQL with MongoDB and integrations with AWS Cloud Services like SNS, SQS and S3.
 
 2. ## 📈 Data Analytics
