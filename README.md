@@ -41,7 +41,7 @@ And I'm an undergraduate student pursuing a bachelor's degree in [Applied and Co
 3. ## 🤖 Machine Learning
     #### [Commands Categorization](https://github.com/lucsalm/commands-categirization)
    - Project exploring Transformer architecture for the problem of Speech Commands Categorization.
-     This project is the foundation of my [Bachelor's Thesis](https://github.com/lucsalm/commands-categirization/blob/main/TCC.pdf).
+     This project is the foundation of my Bachelor's Thesis.
 
 ## Contacts
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-376141203/)
