@@ -44,6 +44,6 @@ And I'm an undergraduate student pursuing a bachelor's degree in [Applied and Co
      This project is the foundation of my [Bachelor's Thesis](https://github.com/lucsalm/commands-categirization/blob/main/TCC.pdf).
 
 ## Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lucas.almd.silva@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-376141203/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lucas.almd.silva@gmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lucsalm)
