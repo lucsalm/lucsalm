@@ -1,6 +1,6 @@
 ## About Me 👨🏽‍💻
 
-My name is Lucas. I am 22 years old and hail from São Paulo, Brazil. 
+My name is Lucas. I am 22 years old and hail from São Paulo, Brazil.
 
 I currently hold the position of Software Engineer.
 
@@ -28,17 +28,22 @@ And I'm an undergraduate student pursuing a bachelor's degree in [Applied and Co
 
 ## Some Projects
 
-1. ### 💻 [Account API](https://github.com/lucsalm/account-api) 
-   - Project exploring ACID concepts with Spring Boot, making use of transactions, locks, and relationships.
-   
-2. ### 📈 [Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash)
-   - Project about the financial concept of portfolio, enabling analysis of asset portfolios through dashboards and insights.
-   
-3. ### 🤖 [Commands Categorization](https://github.com/lucsalm/commands-categirization)
+1. ## 💻 Software Development
+    ####  [Account API](https://github.com/lucsalm/account-api)
+    - Project exploring ACID concepts with Spring Boot, making use of transactions, locks, and relationships.
+    #### [Catalog API](https://github.com/lucsalm/catalog-api) and [Catalog Consumer](https://github.com/lucsalm/catalog-api)
+    - Project exploring microsservices with Spring Boot, NoSQL with MongoDB and integrations with AWS Cloud Services like SNS, SQS and S3.
+
+2. ## 📈 Data Analytics
+    ###  [Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash)
+    - Project about the financial concept of portfolio, enabling analysis of asset portfolios through dashboards and insights.
+
+3. ## 🤖 Machine Learning
+    #### [Commands Categorization](https://github.com/lucsalm/commands-categirization)
    - Machine Learning project exploring Transformer architecture for the problem of Speech Commands Categorization.
-This project is the foundation of my [Bachelor's Thesis](https://github.com/lucsalm/commands-categirization/blob/main/TCC.pdf).
+     This project is the foundation of my [Bachelor's Thesis](https://github.com/lucsalm/commands-categirization/blob/main/TCC.pdf).
 
 ## Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lucas.almd.silva@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lucsalm) 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-376141203/) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lucas.almd.silva@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-376141203/)
+[![Github Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lucsalm)
