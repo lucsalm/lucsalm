@@ -1,10 +1,10 @@
 ## About Me 👨🏽‍💻
 
-My name is Lucas. I am 22 years old and hail from São Paulo, Brazil.
+My name's Lucas. I'm 22 and I'm from São Paulo, Brazil.
 
-I currently hold the position of Software Engineer.
+I work as a Software Engineer.
 
-And I'm an undergraduate student pursuing a bachelor's degree in [Applied and Computational Mathematics](https://www.ime.usp.br/bmac/) at [IME-USP](https://www.ime.usp.br).
+Also, I'm in college studying [Applied and Computational Mathematics](https://www.ime.usp.br/bmac/) at [IME-USP](https://www.ime.usp.br).
 
 ## Daily Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
