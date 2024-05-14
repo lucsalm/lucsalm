@@ -35,7 +35,7 @@ Also, I'm in college studying [Applied and Computational Mathematics](https://ww
     - Project exploring microsservices with Spring Boot, NoSQL with MongoDB and integrations with AWS Cloud Services like SNS, SQS and S3.
 
 2. ## 📈 Data Analytics
-    ###  [Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash)
+    ####  [Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash)
     - Project about the financial concept of portfolio, enabling analysis of asset portfolios through dashboards and insights.
 
 3. ## 🤖 Machine Learning
