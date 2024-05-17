@@ -30,15 +30,17 @@ Also, I'm in college studying [Applied and Computational Mathematics](https://ww
 
 1. ## 💻 Software Development
     ####  [Account API](https://github.com/lucsalm/account-api)
-    - Project exploring ACID concepts with Spring Boot, making use of transactions, locks, and relationships.
+    - Implementation of the challenge [Rinha de Backend]([https://github.com/githubanotaai/new-test-backend-nodejs](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)) exploring ACID concepts with Spring Boot, making use of transactions, locks, and relationships.
     #### [Catalog API](https://github.com/lucsalm/catalog-api) and [Catalog Consumer](https://github.com/lucsalm/catalog-consumer)
-    - Project exploring microsservices with Spring Boot, NoSQL with MongoDB and integrations with AWS Cloud Services like SNS, SQS and S3.
+    - Implementation of the challenge [Desafio Backend AnotaAi](https://github.com/githubanotaai/new-test-backend-nodejs) exploring microsservices with Spring Boot, NoSQL with MongoDB and integrations with AWS Cloud Services like SNS, SQS and S3.
+   #### [Transfer API](https://github.com/lucsalm/transfer-api)
+   - Implementation of the challenge [PicPay Desafio Backend], using reactive Spring Boot and async flows with Kafka.
 
-2. ## 📈 Data Analytics
+3. ## 📈 Data Analytics
     ####  [Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash)
     - Project about the financial concept of portfolio, enabling analysis of asset portfolios through dashboards and insights.
 
-3. ## 🤖 Machine Learning
+4. ## 🤖 Machine Learning
     #### [Commands Categorization](https://github.com/lucsalm/commands-categirization)
    - Project exploring Transformer architecture for the problem of Speech Commands Categorization.
      This project is the foundation of my Bachelor's Thesis.
