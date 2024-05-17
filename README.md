@@ -34,7 +34,7 @@ Also, I'm in college studying [Applied and Computational Mathematics](https://ww
     #### [Catalog API](https://github.com/lucsalm/catalog-api) and [Catalog Consumer](https://github.com/lucsalm/catalog-consumer)
     - Implementation of the challenge [Desafio Backend AnotaAi](https://github.com/githubanotaai/new-test-backend-nodejs) exploring microsservices with Spring Boot, NoSQL with MongoDB and integrations with AWS Cloud Services like SNS, SQS and S3.
    #### [Transfer API](https://github.com/lucsalm/transfer-api)
-   - Implementation of the challenge [PicPay Desafio Backend], using reactive Spring Boot and async flows with Kafka.
+   - Implementation of the challenge [PicPay Desafio Backend](https://github.com/PicPay/picpay-desafio-backend?tab=readme-ov-file#para-o-dia-da-entrevista-técnica), using reactive Spring Boot and async flows with Kafka.
 
 3. ## 📈 Data Analytics
     ####  [Portfolio Generator](https://github.com/lucsalm/portfolio-generator-dash)
