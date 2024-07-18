@@ -2,7 +2,7 @@
 
 My name is Lucas. I'm 22 years old and a Software Engineer from São Paulo, Brazil.
 
-Also, I'm in college studying [Applied and Computational Mathematics](https://www.ime.usp.br/bmac/) at [IME - USP](https://www.ime.usp.br).
+Bachelor in [Applied and Computational Mathematics](https://www.ime.usp.br/bmac/) in [University Of São Paulo (USP)](https://www.ime.usp.br)
 
 ## Daily Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,6 +44,9 @@ Also, I'm in college studying [Applied and Computational Mathematics](https://ww
      This project is the foundation of my Bachelor's Thesis.
 
 ## Contacts
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-376141203/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lucas.almd.silva@gmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/lucsalm)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://lucasalmeida.tech)
+
